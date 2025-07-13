@@ -8,7 +8,7 @@ trait Reservable
     public function reserve(): void
     {
         if ($this->isReserved) {
-            echo "Билет уже зарезервирован!\n";
+            echo "Билет уже зарезервирован)\n";
             return;
         }
 
