@@ -34,6 +34,6 @@ class Payment {
     use FileLogger;
 
     public function pay() {
-        $this->logToFile("Оплата выполнена");
+        $this->logToFile("Оплата выполнена!");
     }
 }
