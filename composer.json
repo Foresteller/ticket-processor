@@ -1,0 +1,12 @@
+{
+    "name": "foresteller/foresteller",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^3.9"
+    }
+}

@@ -1,0 +1,9 @@
+vendor/
+logs/
+.env
+*.log
+.idea/
+/storage/
+bootstrap/cache/
+tmp/
+temp/
